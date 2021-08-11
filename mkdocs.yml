@@ -1,1 +1,19 @@
-site_name: My Docs
+site_name: Rin Docs
+
+theme:
+  name: readthedocs
+  locale: en
+
+plugins:
+  - search:
+      lang: en
+  - git-revision-date-localized:
+      type: date
+
+repo-url: https://github.com/No767/Rin-Docs
+repo_name: GitHub
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - attr_list
