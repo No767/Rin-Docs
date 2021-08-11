@@ -8,6 +8,14 @@ plugins:
       lang: 
         - en
 
+markdown_extensions:
+    - toc:
+        permalink: True
+
+repo_url: https://github.com/No767/Rin-Docs
+repo_name: GitHub
+edit_uri: blob/master/docs/
+
 nav:
   - 'Running the Rin Bot':
     - 'Getting Started': 'getting-started.md'
