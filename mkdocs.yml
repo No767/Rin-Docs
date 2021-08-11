@@ -7,8 +7,6 @@ theme:
 plugins:
   - search:
       lang: en
-  - git-revision-date-localized:
-      type: date
 
 repo-url: https://github.com/No767/Rin-Docs
 repo_name: GitHub
