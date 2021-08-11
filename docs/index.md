@@ -8,13 +8,13 @@ Welcome! This is the documentation for the Rin bot, a discord bot with EasyBot.p
 
 ### Running the Rin Bot
 
-- Getting Started
+- [Getting Started](https://rin-docs.readthedocs.io/en/latest/getting-started/)
 
 ### Contributing
 
-- Contributing
+- [Contributing](https://rin-docs.readthedocs.io/en/latest/contributing-to-rin/)
 
 ## About
 
-- About Rin
-- Project Structure
+- [About Rin](https://rin-docs.readthedocs.io/en/latest/about-rin/)
+- [Project Structure](https://rin-docs.readthedocs.io/en/latest/project-structure/)
