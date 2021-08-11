@@ -7,3 +7,12 @@ plugins:
   - search:
       lang: 
         - en
+
+nav:
+  - 'Running the Rin Bot':
+    - 'Getting Started': 'getting-started.md'
+  - 'Contributing': 
+    - 'Contributing': 'contributing-to-rin.md'
+  - 'About':
+    - 'About Rin': 'about-rin.md'
+    - 'Project Structure': 'project-structure.md'
