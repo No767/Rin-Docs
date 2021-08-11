@@ -1,0 +1,9 @@
+site_name: Rin Docs
+
+theme:
+  name: readthedocs
+
+plugins:
+  - search:
+      lang: 
+        - en
