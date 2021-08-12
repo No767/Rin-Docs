@@ -1,3 +1,4 @@
 # Rin Commands
 
-As of now, there aren't much. Mostly uses it from upstream EasyBot.py
+Note that the command prefix is "**.**" 
+
