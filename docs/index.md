@@ -6,6 +6,9 @@ Welcome! This is the documentation for the Rin bot, a discord bot with EasyBot.p
 
 ## Contents
 
+### Commands
+
+- [Commands]
 ### Running the Rin Bot
 
 - [Getting Started](https://rin-docs.readthedocs.io/en/latest/getting-started/)
