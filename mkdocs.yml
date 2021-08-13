@@ -23,6 +23,8 @@ nav:
     - 'Getting Started': 'getting-started.md'
   - 'Contributing': 
     - 'Contributing': 'contributing-to-rin.md'
+  - 'Terms and Conditions':
+    - 'Art Assets': 'art-assets.md'
   - 'About':
     - 'About Rin': 'about-rin.md'
     - 'Project Structure': 'project-structure.md'
