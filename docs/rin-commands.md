@@ -36,6 +36,8 @@ Note that the command prefix is "**.**"
 
 - .makeyourownbot
 
+- .rintwitter
+
 
 
 
