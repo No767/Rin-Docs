@@ -12,6 +12,24 @@ To get started, you'll need these things installed:
 - Discord.py
 - Python-dotenv
 - Cog Watch
+- 
+Full requirementst.txt list here:
+```
+discord == 1.7.3
+discord.py == 1.7.3
+python-dotenv == 0.19.0
+qrcode==7.2
+image==1.5.33
+praw==7.4.0
+deviantart==0.1.5
+py3-pinterest==1.2.2
+tweepy==3.10.0
+deep-translator==1.5.0
+pyinstrument==4.0.2
+black==21.7b0
+django>=2.2.18 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=8.1.0 # not directly required, pinned by Snyk to avoid a vulnerability
+```
 
 All of the dependencies that is needed for this project can be found within the `requirements.txt` within the root directory of this project.
 
