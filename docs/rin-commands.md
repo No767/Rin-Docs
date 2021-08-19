@@ -9,13 +9,13 @@ Note that the command prefix is "**.**"
 
 - .rininfo
 
-- .valid
+- .valid <arg1> (requires a name or something that you want to use)
 
 - .ping 
 
 - .meme (from EasyBot.py)
 
-- .reddit (from EasyBot.py)
+- .reddit <arg1> (this could be a subreddit, or a topic)
 
 - .devartfind (**NOT COMPLETE YET**)
 

@@ -21,6 +21,6 @@ Once installed, run this cmd to install the other packages:
 ` $ pip install -r requirements.txt`
 
 
-### Building
+### Compiling
 
 This docs uses MkDocs, so all you need to is to run `mkdocs serve` in order to get a live webserver, make the adjusts, and commit to the repo. This uses .md files instead of .rst files
