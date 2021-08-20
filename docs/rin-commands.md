@@ -9,7 +9,7 @@ Note that the command prefix is "**.**"
 
 - .rininfo
 
-- .valid <arg1> (requires a name or something that you want to use)
+- .valid [arg1] (requires a name or something that you want to use)
 
 - .ping 
 
