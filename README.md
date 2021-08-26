@@ -1,8 +1,4 @@
-# Rin Docs 
-
-<a href='https://rin-docs.readthedocs.io/en/latest/?badge=latest'>
-    <img src='https://readthedocs.org/projects/rin-docs/badge/?version=latest' alt='Documentation Status' />
-</a>
+# Rin Docs     <a href='https://rin-docs.readthedocs.io/en/latest/?badge=latest'><img src='https://readthedocs.org/projects/rin-docs/badge/?version=latest' alt='Documentation Status' /></a>
 
 Documentation for the Rin bot. This repo is published to ReadTheDocs, which can be found [here](https://rin-docs.readthedocs.io/en/latest/)
 

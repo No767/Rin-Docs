@@ -1,10 +1,6 @@
 # Rin Commands
 
-Note that the command prefix is "**.**" 
-
-## Commands 
-
-
+---
 ### `.rinhelp` 
 
 Provides a list of commands that can be used
@@ -36,7 +32,7 @@ Performs a search on memes on reddit. Picks from a certain list of words + meme.
 
 **Parameters**: None
 
-### `transmeme` 
+### `.transmeme` 
 
 Find trans-related memes
 

@@ -19,8 +19,6 @@ edit_uri: blob/master/docs/
 nav:
   - 'Commands':
     - 'Commands': 'rin-commands.md'
-  - 'Running the Rin Bot':
-    - 'Getting Started': 'getting-started.md'
   - 'Contributing': 
     - 'Contributing': 'contributing-to-rin.md'
   - 'Terms and Conditions':
