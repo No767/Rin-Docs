@@ -5,7 +5,7 @@ Note that the command prefix is "**.**"
 ## Commands 
 
 
-### `.rinhelp` 
+> `.rinhelp` 
 
 Provides a list of commands that can be used
 
