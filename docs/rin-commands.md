@@ -1,38 +1,51 @@
 # Rin Commands
 
+<<<<<<< HEAD
 ---
 ### `.rinhelp` 
+=======
+Note that the command prefix is "**.**" 
+
+## Commands 
+
+
+## `.rinhelp` 
+>>>>>>> 3a213ca04cc95d3c8041c82796e77948f56bd5ec
 
 Provides a list of commands that can be used
 
 **Parameters**: None 
 
-### `.rininfo` 
+## `.rininfo` 
 
 Provides basic info for what the bot does.
 
 **Parameters**: None
 
-### `.valid` 
+## `.valid` 
 
 Provides some support... This is meant to say you're valid.
 
 **Parameters**: 
 
 - keyword/name - usually a name goes better with this
-### `.ping` 
+## `.ping` 
 
 Pings the bot to obtain lag in ms. 
 
 **Parameters**: None 
 
-### `.meme`
+## `.meme`
 
 Performs a search on memes on reddit. Picks from a certain list of words + meme. 
 
 **Parameters**: None
 
+<<<<<<< HEAD
 ### `.transmeme` 
+=======
+## `transmeme` 
+>>>>>>> 3a213ca04cc95d3c8041c82796e77948f56bd5ec
 
 Find trans-related memes
 
@@ -40,7 +53,7 @@ Find trans-related memes
 
 - keyword - the keyword being used to search reddit via praw
 
-### `.reddit`
+## `.reddit`
 
 Performs a search on reddit. 
 
@@ -48,9 +61,7 @@ Performs a search on reddit.
 
 - keyword/subreddit - For subreddit, include the "r/" prefix as well
 
-
-
-### `.devartfind`
+## `.devartfind`
 
 Browses Deviantart.
 
@@ -59,7 +70,7 @@ Browses Deviantart.
 - keyword - keyword in order to perform a search
 
 
-### `.devartsearch`
+## `.devartsearch`
 
 Performs a search on the tags within Deviantart. 
 
@@ -68,7 +79,7 @@ Performs a search on the tags within Deviantart.
 - keyword - Keyword in order to search. Will look up results that are similar to the keyword. For example, if I typed in "anime" as the keyword, it would give "animeart", "animegirls", etc
 
 
-### `.image` 
+## `.image` 
 
 Image Scraper for Deviantart. 
 
@@ -76,44 +87,44 @@ Image Scraper for Deviantart.
 
 - keyword - the keyword for the image scraper to work
 
-### `.invite`
+## `.invite`
 
 Makes an invite for the server (I'm aware this is somewhat broken on the current development env. Upstream already fixed that)
 
 **Parameters**: None
 
 
-### `.botinfo`
+## `.botinfo`
 
 Shows Bot info. 
 
 **Parameters**: None
 
-### `.translate` 
+## `.translate` 
 
 Translates a string or message.
 
 **Parameters**: None. Requires input after running cmd. 
 
-### `.botgrowth` 
+## `.botgrowth` 
 
 Shows tips on how to grow your server with a bot. 
 
 **Parameters**: None
 
-### `.prune` 
+## `.prune` 
 
 Prunes any spare servers that the bot is not used in. This is an admin command. 
 
 **Parameters**: None
 
-### `.broadcast`
+## `.broadcast`
 
 Performs a broadcast using the Global chat system. Use with caution.
 
 **Parameters**: None. Requires input after running the cmd. 
 
-### `.rtupdatestatus`
+## `.rtupdatestatus`
 
 Updates the status of the Twitter User. 
 
@@ -121,7 +132,7 @@ Updates the status of the Twitter User.
 
 - update message - The message you want to send to update the status on your twitter account.
 
-### `.rtsearch`
+## `.rtsearch`
 
 Performs a search on Twitter. 
 
