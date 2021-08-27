@@ -1,16 +1,8 @@
 # Rin Commands
 
-<<<<<<< HEAD
 ---
-### `.rinhelp` 
-=======
-Note that the command prefix is "**.**" 
-
-## Commands 
-
 
 ## `.rinhelp` 
->>>>>>> 3a213ca04cc95d3c8041c82796e77948f56bd5ec
 
 Provides a list of commands that can be used
 
@@ -41,11 +33,7 @@ Performs a search on memes on reddit. Picks from a certain list of words + meme.
 
 **Parameters**: None
 
-<<<<<<< HEAD
-### `.transmeme` 
-=======
-## `transmeme` 
->>>>>>> 3a213ca04cc95d3c8041c82796e77948f56bd5ec
+## `.transmeme` 
 
 Find trans-related memes
 
@@ -139,7 +127,3 @@ Performs a search on Twitter.
 **Parameters**: 
 
 - keyword - Used to determine the search
-
-
-
-
