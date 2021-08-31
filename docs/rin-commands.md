@@ -126,7 +126,3 @@ Performs a search on Twitter.
 **Parameters**: 
 
 - keyword - Used to determine the search
-
-
-
-

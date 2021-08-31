@@ -10,11 +10,6 @@ To get started, you'll need these things installed:
 - Python 3.6 and above (Made in 3.9.6)
 - pip 
 
-<<<<<<< HEAD
-=======
-All of the dependencies that is needed for this project can be found within the `requirements.txt` within the root directory of this project.
->>>>>>> 3a213ca04cc95d3c8041c82796e77948f56bd5ec
-
 ## Installing Dependencies
 
 All of the dependencies that is needed for this project can be found within the `requirements.txt` within the root directory of this project. Git can be found [here](https://git-scm.com/). Python can be also found at its website ([Python's Official Website](https://www.python.org/)).
@@ -40,8 +35,4 @@ If there is an issue or a feature you want to be added, use the built-in GitHub 
 ## Code StyleGuides
 
 - Use the PEP 8 Standard if possible
-<<<<<<< HEAD
 - Use patches if possible (not needed, but if you want to, go ahead)
-=======
-- Use patches if possible (not needed, but if you want to, go ahead)
->>>>>>> 3a213ca04cc95d3c8041c82796e77948f56bd5ec
