@@ -21,6 +21,7 @@ nav:
     - 'Commands': 'rin-commands.md'
   - 'Contributing': 
     - 'Contributing': 'contributing-to-rin.md'
+    - 'Branches': 'branches.md'
   - 'Terms and Conditions':
     - 'Art Assets': 'art-assets.md'
   - 'About':
