@@ -1,7 +1,7 @@
 # Rin Commands
 
 ---
-### `.rinhelp` 
+## `.rinhelp` 
 
 Provides a list of commands that can be used
 
@@ -20,6 +20,7 @@ Provides some support... This is meant to say you're valid.
 **Parameters**: 
 
 - keyword/name - usually a name goes better with this
+
 ## `.ping` 
 
 Pings the bot to obtain lag in ms. 
@@ -32,7 +33,7 @@ Performs a search on memes on reddit. Picks from a certain list of words + meme.
 
 **Parameters**: None
 
-### `.transmeme` 
+## `.transmeme` 
 
 Find trans-related memes
 
@@ -80,7 +81,6 @@ Makes an invite for the server (I'm aware this is somewhat broken on the current
 
 **Parameters**: None
 
-
 ## `.botinfo`
 
 Shows Bot info. 
@@ -126,3 +126,15 @@ Performs a search on Twitter.
 **Parameters**: 
 
 - keyword - Used to determine the search
+
+## `.pinger`
+
+Pings everyone on the server with a message
+
+**Parameters**: 
+
+- amount of pings - int/float
+- keyword - the message you want to type
+
+
+Completed Command: .pinger [int] [message]
