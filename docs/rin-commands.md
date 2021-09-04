@@ -133,5 +133,39 @@ Pings everyone on the server with a message
 
 **Parameters**:
 
-- amount of pings - int/float
-- keyword - the message you want to type. This needs to be wrapped in "" marks. The message should look like this: "This is an message" (basically wrap it so it's a str instead)
+- amount of pings - whole number
+- keyword - the message you want to send. This needs to be wrapped in "" marks. The message should look like this: "This is an message" (basically wrap it so it's a str instead)
+
+## `.iguserinfo`
+
+Finds and extracts user info for that account
+
+**Parameters**:
+
+- client id - *Client ID of the user 
+
+*Note: In order to find the Client ID, you will need to use [this](https://codeofaninja.com/tools/find-instagram-user-id/) website, and input the username you want. Then the number is labeled under "profilePage".
+
+## `.igusersearch`
+
+Finds users with that username. Will only show the first result of each search.
+
+**Parameters**:
+
+- keyword - The user you are searching for
+
+## `.igtaginfo` 
+
+Extracts info about the tag
+
+**Parameters**:
+
+- keyword - The tag that you want to search for
+
+## `.igusernamecheck` 
+
+Checks if the Instagram username is taken or not
+
+**Parameters**:
+
+- keyword - The username that you want to check
