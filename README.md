@@ -10,7 +10,7 @@ Before you start, you'll need to set up your Python environment.
 
 1. Install [Python 3](https://www.python.org/)
 2. Install [MkDocs](https://www.mkdocs.org/)
-3. Install all other dependencies (they are listed within the requirementst.txt file)
+3. Install all other dependencies (they are listed within the requirements.txt file)
 
 Once installed, run this cmd to install the other packages:
 
