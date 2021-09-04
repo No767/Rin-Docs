@@ -1,51 +1,51 @@
 # Rin Commands
 
 ---
-## `.rinhelp` 
+## `.rinhelp`
 
 Provides a list of commands that can be used
 
-**Parameters**: None 
+**Parameters**: None
 
-## `.rininfo` 
+## `.rininfo`
 
 Provides basic info for what the bot does.
 
 **Parameters**: None
 
-## `.valid` 
+## `.valid`
 
 Provides some support... This is meant to say you're valid.
 
-**Parameters**: 
+**Parameters**:
 
 - keyword/name - usually a name goes better with this
 
-## `.ping` 
+## `.ping`
 
-Pings the bot to obtain lag in ms. 
-
-**Parameters**: None 
-
-## `.meme`
-
-Performs a search on memes on reddit. Picks from a certain list of words + meme. 
+Pings the bot to obtain lag in ms.
 
 **Parameters**: None
 
-## `.transmeme` 
+## `.meme`
+
+Performs a search on memes on reddit. Picks from a certain list of words + meme.
+
+**Parameters**: None
+
+## `.transmeme`
 
 Find trans-related memes
 
-**Parameters**: 
+**Parameters**:
 
 - keyword - the keyword being used to search reddit via praw
 
 ## `.reddit`
 
-Performs a search on reddit. 
+Performs a search on reddit.
 
-**Parameters**: 
+**Parameters**:
 
 - keyword/subreddit - For subreddit, include the "r/" prefix as well
 
@@ -53,25 +53,25 @@ Performs a search on reddit.
 
 Browses Deviantart.
 
-**Parameters**: 
+**Parameters**:
 
 - keyword - keyword in order to perform a search
 
 
 ## `.devartsearch`
 
-Performs a search on the tags within Deviantart. 
+Performs a search on the tags within Deviantart.
 
-**Parameters**: 
+**Parameters**:
 
 - keyword - Keyword in order to search. Will look up results that are similar to the keyword. For example, if I typed in "anime" as the keyword, it would give "animeart", "animegirls", etc
 
 
-## `.image` 
+## `.image`
 
-Image Scraper for Deviantart. 
+Image Scraper for Deviantart.
 
-**Parameters**: 
+**Parameters**:
 
 - keyword - the keyword for the image scraper to work
 
@@ -83,25 +83,25 @@ Makes an invite for the server (I'm aware this is somewhat broken on the current
 
 ## `.botinfo`
 
-Shows Bot info. 
+Shows Bot info.
 
 **Parameters**: None
 
-## `.translate` 
+## `.translate`
 
 Translates a string or message.
 
-**Parameters**: None. Requires input after running cmd. 
+**Parameters**: None. Requires input after running cmd.
 
-## `.botgrowth` 
+## `.botgrowth`
 
-Shows tips on how to grow your server with a bot. 
+Shows tips on how to grow your server with a bot.
 
 **Parameters**: None
 
-## `.prune` 
+## `.prune`
 
-Prunes any spare servers that the bot is not used in. This is an admin command. 
+Prunes any spare servers that the bot is not used in. This is an admin command.
 
 **Parameters**: None
 
@@ -109,21 +109,21 @@ Prunes any spare servers that the bot is not used in. This is an admin command.
 
 Performs a broadcast using the Global chat system. Use with caution.
 
-**Parameters**: None. Requires input after running the cmd. 
+**Parameters**: None. Requires input after running the cmd.
 
 ## `.rtupdatestatus`
 
-Updates the status of the Twitter User. 
+Updates the status of the Twitter User.
 
-**Parameters**: 
+**Parameters**:
 
 - update message - The message you want to send to update the status on your twitter account.
 
 ## `.rtsearch`
 
-Performs a search on Twitter. 
+Performs a search on Twitter.
 
-**Parameters**: 
+**Parameters**:
 
 - keyword - Used to determine the search
 
@@ -131,10 +131,7 @@ Performs a search on Twitter.
 
 Pings everyone on the server with a message
 
-**Parameters**: 
+**Parameters**:
 
 - amount of pings - int/float
-- keyword - the message you want to type
-
-
-Completed Command: .pinger [int] [message]
+- keyword - the message you want to type. This needs to be wrapped in "" marks. The message should look like this: "This is an message" (basically wrap it so it's a str instead)
