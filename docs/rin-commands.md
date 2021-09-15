@@ -77,7 +77,7 @@ Image Scraper for Deviantart.
 
 ## `.invite`
 
-Makes an invite for the server (I'm aware this is somewhat broken on the current development env. Upstream already fixed that)
+Makes an invite for the server
 
 **Parameters**: None
 
@@ -169,3 +169,33 @@ Checks if the Instagram username is taken or not
 **Parameters**:
 
 - keyword - The username that you want to check
+
+## `.iguserfeed`
+
+Shows the first post of the selected user's profile feed
+
+**Parameters**:
+
+- Client ID - Requires Client ID in order to work
+
+## `.jisho`
+
+Searches up Japanese terms and words along with the English meaning. Uses [Jisho](https://jisho.org/) in order to fetch the data. (Uses the API in order to do so)
+
+**Parameters**:
+
+- keyword - The term that you want to search for. Can be in both Japanese and English
+
+## `.serverinfo`
+
+Shows server info
+
+**Parameters**: None
+
+## `.clear`
+
+Clears number of messages specified from the channel that the command was called in
+
+**Parameters**: 
+
+- keyword - The number of messages to clear 
