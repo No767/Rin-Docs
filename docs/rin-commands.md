@@ -199,3 +199,25 @@ Clears number of messages specified from the channel that the command was called
 **Parameters**: 
 
 - keyword - The number of messages to clear 
+
+## `.javamcsrv`
+
+Provides info about a minecraft server (java) of your choice
+
+**Parameters**: 
+
+- keyword - The server's domain name 
+
+## `.bedrockmcsrv` 
+
+Provides info about a minecraft server (bedrock) of your choice
+
+**Parameters**: 
+
+- keyword - The server's domain name 
+
+## `.waifu`
+
+Randomly selects a waifu for you
+
+**Parameters**: None
