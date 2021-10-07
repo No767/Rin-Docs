@@ -13,12 +13,14 @@ To get started, you'll need these things installed:
 
 All of the dependencies that is needed for this project can be found within the `requirements.txt` within the root directory of this project. Git can be found [here](https://git-scm.com/). Python can be also found at its website ([Python's Official Website](https://www.python.org/)).
 
-Before you can get working, you need to run 2 commands:
+To install all of the dependencies, you have 2 options: Via pip or pipenv
 
-- `pip install --upgrade pip setuptools wheel`
-- `pip install -r requirements.txt`
+Option 1: Via Pip
+`pip install --upgrade pip setuptools wheel`
+`pip install -r requirements.txt`
 
-The reason why is that one of the dependencies breaks if setuptools and wheels is not updated. Make sure to do this in the root directory of this repo.
+Option 2: Via Pipenv
+`pipenv install`
 
 ## Pull Requests and Commits
 
