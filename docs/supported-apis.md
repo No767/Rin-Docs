@@ -20,4 +20,4 @@
 | LoL/Riot Games        | No             | Not Started |
 | YouTube | No | Not Started/Planned |
 | Advice Slip | No | Not Started/Planned | 
-| Waifu.Pics | No | Started |
+| Waifu.Pics | Yes | Completed |
