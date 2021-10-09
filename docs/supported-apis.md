@@ -19,5 +19,5 @@
 | Slack                 | No             | Not Started/Planned |
 | LoL/Riot Games        | No             | Not Started |
 | YouTube | No | Not Started/Planned |
-| Advice Slip | No | Not Started/Planned | 
+| Advice Slip | Yes | Completed | 
 | Waifu.Pics | Yes | Completed |
