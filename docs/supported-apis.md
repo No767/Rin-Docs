@@ -1,20 +1,20 @@
 # Supported APIs
-| APIs Supported/Planned | Support Status | Completion Status |
-|        :--:           |     :--:       |    :--:   |
+| APIs Supported/Planned | Support Status | Completion Status | Notes | 
+|        :--:           |     :--:       |    :--:   |        :--: |
 | Deviantart            |   Yes          |    Not Completed     |
 | Hypixel               | Yes            | Completed       |
-| Jisho                 | Yes            |  Almost Completed  |
+| Jisho                 | Yes            |  Almost Completed (75% completed) |
 | MCSrvStats            | Yes            |    Completed    |
-| Twitter               | Yes            | Only 35% Completed| 
-| Instagram             |  Yes           |     Completed/Disabled   |
+| Twitter               | Yes            | Only 35% Completed| Requires complete rewrite |
+| Instagram             |  Yes           |     Completed/Disabled   | Disabled to prevent rate limiting |
 | MyWaifuList           |   Yes          |     Completed   | 
 | Reddit                |     Yes        | Completed       |
-| Spotify               |  No            | Not Started/Planned     |
-| Pinterest             |  No            | Not Started/Planned     | 
-| FullContact           | No             | Not Started/Planned     |
-| SoundCloud            | N/A            | N/A             |
-| MangaDex              | No             | N/A |
-| MyAnimeList           | No             | Not Started/Planned |
+| Spotify               |  No            | Not Started/Planned     | 
+| Pinterest             |  No            | Not Started/Planned     | Waiting on API Key | 
+| FullContact           | N/a            | N/A    | No plans to add API support |
+| SoundCloud            | N/A            | N/A             | No Public API/Wrapper |
+| MangaDex              | No           | N/A | Unable to obtain API Key for auth | 
+| MyAnimeList           | No            | Not Started/Planned | Unable to obtain API Key/OAuth2 for auth | 
 | Twitch                | No             | Not Started/Planned |
 | Slack                 | No             | Not Started/Planned |
 | LoL/Riot Games        | No             | Not Started |
