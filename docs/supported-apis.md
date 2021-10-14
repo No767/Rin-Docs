@@ -10,7 +10,7 @@
 | MyWaifuList           |   Yes          |     Completed   | 
 | Reddit                |     Yes        | Completed       |
 | Spotify               |  No            | Not Started/Planned     | 
-| Pinterest             |  No            | Not Started/Planned     | Waiting on API Key | 
+| Pinterest             |  No            | Started     | All API Keys are Secrets are active | 
 | FullContact           | N/a            | N/A    | No plans to add API support |
 | SoundCloud            | N/A            | N/A             | No Public API/Wrapper |
 | MangaDex              | No           | N/A | Unable to obtain API Key for auth | 
