@@ -6,10 +6,7 @@ Welcome! This is the documentation for the Rin bot, a discord bot with EasyBot.p
 
 <details>
   <summary markdown="span">Important Note from the main dev</summary>
-  As of now, Rin is mostly a side project. I have to balance many things at once, and I don't have all of the time to contribute to Rin. If there is anything that you would like to help out with, submit a pr or let me know
- 
-  
-  thanks - noelle
+  As of now, Rin is mostly a side project. I have to balance many things at once, and I don't have all of the time to contribute to Rin. If there is anything that you would like to help out with, submit a pr or let me know - Noelle
 </details>
 
 ## Contents
