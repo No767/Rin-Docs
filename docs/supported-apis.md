@@ -6,11 +6,11 @@
 | Jisho                 | Yes            |  Almost Completed (75% completed) |
 | MCSrvStats            | Yes            |    Completed    |
 | Twitter               | Yes            | Only 35% Completed| Requires complete rewrite |
-| Instagram             |  Yes           |     Completed/Disabled   | Disabled to prevent rate limiting |
+| Instagram             |  Yes           |     Completed/Disabled   | Disabled to prevent rate limiting (Cooldown system should prevent this) |
 | MyWaifuList           |   Yes          |     Completed   | 
 | Reddit                |     Yes        | Completed       |
-| Spotify               |  No            | Not Started/Planned     | 
-| Pinterest             |  No            | Started     | All API Keys are Secrets are active | 
+| Spotify               |  No            | Not Started/Planned | 
+| Pinterest             |  No            | Started     | All API Keys are Secrets are active. Requires OAuth2 Key| 
 | FullContact           | N/a            | N/A    | No plans to add API support |
 | SoundCloud            | N/A            | N/A             | No Public API/Wrapper |
 | MangaDex              | No           | N/A | Unable to obtain API Key for auth | 
@@ -21,3 +21,4 @@
 | YouTube | No | Not Started/Planned |
 | Advice Slip | Yes | Completed | 
 | Waifu.Pics | Yes | Completed |
+| Spiget | No | Planned |

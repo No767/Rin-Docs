@@ -180,7 +180,7 @@ Shows the first post of the selected user's profile feed
 
 ## `.jisho`
 
-Searches up Japanese terms and words along with the English meaning. Uses [Jisho](https://jisho.org/) in order to fetch the data. (Uses the API in order to do so)
+Searches up Japanese terms and words along with the English meaning. Uses [Jisho](https://jisho.org/) in order to fetch the data. (Uses the API in order to do so) and JMDict to process the kanji, hiragana, and katakana
 
 **Parameters**:
 
@@ -221,3 +221,23 @@ Provides info about a minecraft server (bedrock) of your choice
 Randomly selects a waifu for you
 
 **Parameters**: None
+
+# `.waifupics` 
+
+Randomly gives you a waifu using WaifuPic's API
+
+**Parameters**: None
+
+# `.mute`
+
+Mutes the specified user. 
+
+**Parameters**: keyword - the user that you wish to mute
+
+
+# `.advice`
+
+Returns some advice from Advice Slip
+
+**Parameters**: None
+
