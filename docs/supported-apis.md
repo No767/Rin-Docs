@@ -3,7 +3,7 @@
 |        :--:           |     :--:       |    :--:   |        :--: |
 | Deviantart            |   Yes          |    Not Completed     |
 | Hypixel               | Yes            | Completed       |
-| Jisho                 | Yes            |  Almost Completed (75% completed) |
+| Jisho                 | Yes            | Completed |
 | MCSrvStats            | Yes            |    Completed    |
 | Twitter               | Yes            | Only 35% Completed| Requires complete rewrite |
 | Instagram             |  Yes           |     Completed/Disabled   | Disabled to prevent rate limiting (Cooldown system should prevent this) |
