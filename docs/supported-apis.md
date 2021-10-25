@@ -21,4 +21,4 @@
 | YouTube | No | Not Started/Planned |
 | Advice Slip | Yes | Completed | 
 | Waifu.Pics | Yes | Completed |
-| Spiget | Yes | 75% complete |
+| Spiget | Yes | 95% complete |
