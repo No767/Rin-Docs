@@ -3,6 +3,7 @@
 There are 2 main branches: master and dev. Master is the branch that contains the stable code. This is meant later on for production use. Dev is where all of the code gets pushed and made. If you want the latest and greatest, check out the dev branch
   
 If you are still confused by this, here's a table to help you.
+
 | Branch | Purpose of Branch |
 |  :--:  |    :--:           |
 | Master | Stable Code only meant for production use |
