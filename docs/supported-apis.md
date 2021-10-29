@@ -20,3 +20,4 @@
 | Advice Slip | Yes | Completed | 
 | Waifu.Pics | Yes | Completed |
 | Spiget | Yes | 95% complete |
+| Modrinth | No | Planned |
