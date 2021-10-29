@@ -8,6 +8,7 @@ To get started, you'll need these things installed:
 
 - Git
 - Python 3.6 and above (Made in 3.9.6 and 3.9.7)
+- Pipenv
 
 ## Installing Dependencies
 
