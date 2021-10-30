@@ -15,9 +15,8 @@
 | MangaDex              | No           | Not Started | Finally was able to figure out how to get the auth working | 
 | MyAnimeList           | No            | Planned | No auth needed for some reason | 
 | Twitch                | No             | Not Started/Planned |
-| Slack                 | No             | Not Started/Planned 
 | YouTube | No | Not Started/Planned |
 | Advice Slip | Yes | Completed | 
 | Waifu.Pics | Yes | Completed |
-| Spiget | Yes | 95% complete |
+| Spiget | Yes | Completed |
 | Modrinth | No | Planned |
