@@ -12,7 +12,7 @@
 | Spotify               |  No            | Not Started/Planned | 
 | Pinterest             |  No            | Started/0% completed     | All API Keys are Secrets are active. Requires OAuth2 Key| 
 | SoundCloud            | N/A            | N/A             | No Public API/Wrapper |
-| MangaDex              | No           | Not Started | Finally was able to figure out how to get the auth working | 
+| MangaDex              | No           | Not Started | Finally was able to figure out how to get the auth working (Page turning system is needed for mangadex cog) | 
 | MyAnimeList           | No            | Planned | No auth needed for some reason | 
 | Twitch                | No             | Not Started/Planned |
 | YouTube | No | Not Started/Planned |
