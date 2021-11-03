@@ -11,4 +11,4 @@ If you are still confused by this, here's a table to help you.
 
 # Release Target
 
-Currently, I (the project lead maintainer) don't have a place to host the bot. Though Rin has a docker image only accessible to me that has everything (including env vars and api keys), I am currently working on something in order to get this up and running for production use. Rin is fairly close to V1 Release. V0 is currently development/semi-stable releases of Rin, and V1 will be LTS and for production use
+Rin is fairly close to V1 Release. V0 is currently development/semi-stable releases of Rin, and V1 will be LTS and for production use. Rin will be hosted on Azure, and will be running nearly 24/7 unless it's for code changes or maintenance. Rin has still some work left for me to finish, and that's going to take time. The plan is to fully release it around the hoilday season, but with the idea of new features being added, this may be pushed back.
