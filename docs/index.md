@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome! This is the documentation for the Rin bot, a discord bot with EasyBot.py support and built on Discord.py. The docs is spilt into these page here
+Welcome! This is the current documentation for Rin, a discord bot built with EasyBot.py plugins support, and intergration with a wide array of third party services (such as Mangadex, Instagram, etc). For more infomation regarding supported APIs, more info is provided [here](https://rin-docs.readthedocs.io/en/latest/supported-apis/) 
 
 ## Contents
 

@@ -241,3 +241,8 @@ Returns some advice from Advice Slip
 
 **Parameters**: None
 
+# `.spiget-search`
+
+Searches for Spigot resources and returns info regarding the resource info given
+
+**Parameters**: keyword - What plugin you wish to search. Make sure this is the same name as what is in the title of the actual plugin. For example, if I wanted to search for FAWE, I would put Fast Async WorldEdit instead
