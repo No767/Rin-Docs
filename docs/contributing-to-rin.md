@@ -7,7 +7,7 @@ We are glad that you're willing to contribute to this project. We are usually ve
 To get started, you'll need these things installed: 
 
 - Git
-- Python 3.6 and above (Made in 3.9.6 and 3.9.7)
+- Python 3.10 or higher
 - Pipenv
 
 ## Installing Dependencies
@@ -45,8 +45,8 @@ In order to automate the release system, you have to make sure that in order to 
 
 | Type of Release, Update, or Patch | Example |
 |              :--:                 | :--:    | 
-| Major Release                     | `Release: v2.5` | 
-| Minor Release                     | `Update: v2.5.1`|
+| Major Release                     | `Release: v3.0.0` | 
+| Minor Release                     | `Update: v3.1.0`|
 | Patch Release                     | `Fix: Instagram API Cog removal` |
 
 
