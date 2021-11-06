@@ -9,7 +9,7 @@
 | Instagram             |  Yes           |     Completed/Disabled   | Disabled to prevent rate limiting (Cooldown system should prevent this) |
 | MyWaifuList           |   Yes          |     Completed   | 
 | Reddit                |     Yes        | Completed       |
-| MyAnimeList/Jikan           | Yes           | 95% complete |  | 
+| MyAnimeList/Jikan           | Yes           | Complete |  | 
 | Advice Slip | Yes | Completed | 
 | Waifu.Pics | Yes | Completed |
 | Spiget | Yes | Completed |
