@@ -5,7 +5,7 @@
 
 Provides a list of commands that can be used
 
-**Parameters**: None
+**Parameters**: None. Sections can be accessed by typing `.rinhelp [section]`. The section names are displayed on the rinhelp homepage page.
 
 ## `.rininfo`
 
@@ -75,11 +75,6 @@ Image Scraper for Deviantart.
 
 - keyword - the keyword for the image scraper to work
 
-## `.invite`
-
-Makes an invite for the server
-
-**Parameters**: None
 
 ## `.botinfo`
 
@@ -133,8 +128,8 @@ Pings everyone on the server with a message
 
 **Parameters**:
 
-- amount of pings - whole number
-- keyword - the message you want to send. This needs to be wrapped in "" marks. The message should look like this: "This is an message" (basically wrap it so it's a str instead)
+- amount of pings - int
+- keyword - the message to ping everyone with
 
 ## `.iguserinfo`
 
@@ -246,3 +241,88 @@ Returns some advice from Advice Slip
 Searches for Spigot resources and returns info regarding the resource info given
 
 **Parameters**: keyword - What plugin you wish to search. Make sure this is the same name as what is in the title of the actual plugin. For example, if I wanted to search for FAWE, I would put Fast Async WorldEdit instead
+
+# `.ban`
+
+Bans the specified user. 
+
+**Parameters**: keyword - user that you wish to ban
+
+# `.spiget-author`
+
+Searches for the given author and returns name and resources from the author. 
+
+**Parameters**: keyword - The author that you wish to search for
+
+# `.spiget-stats`
+
+Returns stats for Spiget
+
+**Parameters**: None
+
+# `.spiget-status`
+
+Returns HTTP status of the Spiget API
+
+**Parameters**: None
+
+# `.hypixel`
+
+Gain Insight in Hypixel's player data
+
+**Parameters**: keyword - UUID of the player
+
+# `.hypixelcount`
+
+Obtains the amount of players online within the servers
+
+**Parameters**: None
+
+# `.hypixelplayerstatus`
+
+Determines if the player is online or offline
+
+**Parameters**: keyword - UUID of the player
+
+# `.skywarsinfo`
+
+Get the position and score of the player within **ranked** skywars
+
+**Parameters**: keyword - UUID of the player
+
+# `.jikan-anime`
+
+Searches on Jikan/MAL and provides info about the given anime
+
+**Parameters**: keyword - The anime that you wish to search for
+
+# `.jikan-manga`
+
+Searches on Jikan/MAL and provides info about the given manga
+
+**Parameters**: keyword - The manga that you wish to search for
+
+# `.jikan-top`
+
+Returns the top 10 items on Jikan/MAL 
+
+**Parameters**: keyword - `anime`, `manga`, `character`, or `people`
+
+# `.jikan-season`
+
+Returns 5 animes within those given years and seasons
+
+**Parameters**: keyword - Year and Season. For example, `2018 winter`
+
+# `.jikan-season-later`
+
+Returns 5 animes that are already planned for viewing in the future
+
+**Parameters**: None
+
+# `.nb-pride`
+
+Sends a non-binary flag and a trans flag into the channel
+
+**Parameters**: None
+
