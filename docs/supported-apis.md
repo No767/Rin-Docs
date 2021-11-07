@@ -6,10 +6,10 @@
 | Jisho                 | Yes            | Completed | Still need to figure out how to filter out the numbers |
 | MCSrvStats            | Yes            |    Completed    |
 | Twitter               | Yes            | Only 35% Completed | Requires complete rewrite |
-| Instagram             |  Yes           |     Completed/Disabled   | Disabled to prevent rate limiting (Cooldown system should prevent this) |
+| Instagram             |  Yes           |     Completed  |  |
 | MyWaifuList           |   Yes          |     Completed   | 
 | Reddit                |     Yes        | Completed       |
-| MyAnimeList/Jikan           | Yes           | 95% complete |  | 
+| MyAnimeList/Jikan           | Yes           | Complete |  | 
 | Advice Slip | Yes | Completed | 
 | Waifu.Pics | Yes | Completed |
 | Spiget | Yes | Completed |
