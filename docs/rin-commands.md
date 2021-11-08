@@ -66,16 +66,6 @@ Performs a search on the tags within Deviantart.
 
 - keyword - Keyword in order to search. Will look up results that are similar to the keyword. For example, if I typed in "anime" as the keyword, it would give "animeart", "animegirls", etc
 
-
-## `.image`
-
-Image Scraper for Deviantart.
-
-**Parameters**:
-
-- keyword - the keyword for the image scraper to work
-
-
 ## `.botinfo`
 
 Shows Bot info.
