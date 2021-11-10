@@ -316,3 +316,15 @@ Sends a non-binary flag and a trans flag into the channel
 
 **Parameters**: None
 
+# `.topgg-search`
+
+Searches for a bot and returns info about the given bot
+
+**Parameters**: keyword - The bot's ID 
+
+# `.topgg-search-user`
+
+Returns info on a user from Top.gg
+
+**Parameters**: keyword - The User's ID 
+
