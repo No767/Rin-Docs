@@ -13,6 +13,7 @@
 | Waifu.Pics | Yes | Completed |
 | Spiget | Yes | Completed |
 | DeviantArt               | Yes            | Completed      | Still need to figure out a system for automatically getting access tokens |
+| Top.gg               | Yes            | Completed      |  |
 | Twitch                | No             | Not Started/Planned |
 | YouTube | No | Not Started/Planned |
 | Spotify               |  No            | Not Started/Planned | Playback not possible since it requires a premium account |
