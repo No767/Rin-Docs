@@ -1,6 +1,12 @@
 # About Rin
 
-Rin is a discord bot that has EasyBot.py plugin support and focuses on third party API support. These include Twitter, Instagram, Spiget, MCSrvStat, Hypixel, and tons of others. 
+Rin is a Discord bot focused on obtaining data from third-party services and EasyBot.py plugin integration. Rin currently supports MyAnimeList, Hypixel, DeviantArt, and many more. For more information on what services are currently supported, refer to the [Supported Services](https://rin-docs.readthedocs.io/en/latest/supported-services) page.
+
+### Links
+
+- [GitHub](https://github.com/No767/Rin)
+- [Website](https://rinbot.live)
+- [Docs](https://rin-docs.readthedocs.io/en/latest)
 
 ### Credits
 

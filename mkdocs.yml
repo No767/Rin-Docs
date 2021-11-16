@@ -27,5 +27,5 @@ nav:
     - 'Disclaimer': 'disclaimer.md'
   - 'About':
     - 'About Rin': 'about-rin.md'
-    - 'Supported APIs': 'supported-services.md'
+    - 'Supported Services': 'supported-services.md'
     - 'Project Structure': 'project-structure.md'
