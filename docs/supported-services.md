@@ -1,5 +1,5 @@
-# Supported APIs
-| APIs Supported/Planned | Support Status | Completion Status | Notes | 
+# Supported Services/APIs
+| Services/APIs Supported/Planned | Support Status | Completion Status | Notes | 
 |        :--:           |     :--:       |    :--:   |        :--: |
 | Hypixel               | Yes            | Completed       |
 | Jisho                 | Yes            | Completed | Still need to figure out how to filter out the numbers |

@@ -22,5 +22,5 @@ Welcome! This is the current documentation for Rin, a Discord bot focused on obt
 ## About
 
 - [About Rin](https://rin-docs.readthedocs.io/en/latest/about-rin/)
-- [Supported APIs](https://rin-docs.readthedocs.io/en/latest/supported-apis/)
+- [Supported Services/APIs](https://rin-docs.readthedocs.io/en/latest/supported-services/)
 - [Project Structure](https://rin-docs.readthedocs.io/en/latest/project-structure/)
