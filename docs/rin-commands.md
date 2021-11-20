@@ -49,22 +49,6 @@ Performs a search on reddit.
 
 - keyword/subreddit - For subreddit, include the "r/" prefix as well
 
-## `.devartfind`
-
-Browses Deviantart.
-
-**Parameters**:
-
-- keyword - keyword in order to perform a search
-
-
-## `.devartsearch`
-
-Performs a search on the tags within Deviantart.
-
-**Parameters**:
-
-- keyword - Keyword in order to search. Will look up results that are similar to the keyword. For example, if I typed in "anime" as the keyword, it would give "animeart", "animegirls", etc
 
 ## `.botinfo`
 
@@ -127,7 +111,7 @@ Finds and extracts user info for that account
 
 **Parameters**:
 
-- client id - *Client ID of the user 
+- client id - *Client ID of the user
 
 *Note: In order to find the Client ID, you will need to use [this](https://codeofaninja.com/tools/find-instagram-user-id/) website, and input the username you want. Then the number is labeled under "profilePage".
 
@@ -139,7 +123,7 @@ Finds users with that username. Will only show the first result of each search.
 
 - keyword - The user you are searching for
 
-## `.igtaginfo` 
+## `.igtaginfo`
 
 Extracts info about the tag
 
@@ -147,7 +131,7 @@ Extracts info about the tag
 
 - keyword - The tag that you want to search for
 
-## `.igusernamecheck` 
+## `.igusernamecheck`
 
 Checks if the Instagram username is taken or not
 
@@ -181,25 +165,29 @@ Shows server info
 
 Clears number of messages specified from the channel that the command was called in
 
-**Parameters**: 
+**Parameters**:
 
-- keyword - The number of messages to clear 
+- keyword - The number of messages to clear
 
 ## `.javamcsrv`
 
+Alias - `.java`
+
 Provides info about a minecraft server (java) of your choice
 
-**Parameters**: 
+**Parameters**:
 
-- keyword - The server's domain name 
+- keyword - The server's domain name
 
-## `.bedrockmcsrv` 
+## `.bedrockmcsrv`
+
+Alias - `.bedrock`
 
 Provides info about a minecraft server (bedrock) of your choice
 
-**Parameters**: 
+**Parameters**:
 
-- keyword - The server's domain name 
+- keyword - The server's domain name
 
 ## `.waifu`
 
@@ -207,124 +195,197 @@ Randomly selects a waifu for you
 
 **Parameters**: None
 
-# `.waifupics` 
+## `.waifupics`
 
 Randomly gives you a waifu using WaifuPic's API
 
 **Parameters**: None
 
-# `.mute`
+## `.mute`
 
-Mutes the specified user. 
+Mutes the specified user.
 
 **Parameters**: keyword - the user that you wish to mute
 
 
-# `.advice`
+## `.advice`
 
 Returns some advice from Advice Slip
 
 **Parameters**: None
 
-# `.spiget-search`
+## `.spiget-search`
 
 Searches for Spigot resources and returns info regarding the resource info given
 
 **Parameters**: keyword - What plugin you wish to search. Make sure this is the same name as what is in the title of the actual plugin. For example, if I wanted to search for FAWE, I would put Fast Async WorldEdit instead
 
-# `.ban`
+## `.ban`
 
-Bans the specified user. 
+Bans the specified user.
 
 **Parameters**: keyword - user that you wish to ban
 
-# `.spiget-author`
+## `.spiget-author`
 
-Searches for the given author and returns name and resources from the author. 
+Searches for the given author and returns name and resources from the author.
 
 **Parameters**: keyword - The author that you wish to search for
 
-# `.spiget-stats`
+## `.spiget-stats`
 
 Returns stats for Spiget
 
 **Parameters**: None
 
-# `.spiget-status`
+## `.spiget-status`
 
 Returns HTTP status of the Spiget API
 
 **Parameters**: None
 
-# `.hypixel`
+## `.hypixel`
 
 Gain Insight in Hypixel's player data
 
 **Parameters**: keyword - UUID of the player
 
-# `.hypixelcount`
+## `.hypixelcount`
 
 Obtains the amount of players online within the servers
 
 **Parameters**: None
 
-# `.hypixelplayerstatus`
+## `.hypixelplayerstatus`
 
 Determines if the player is online or offline
 
 **Parameters**: keyword - UUID of the player
 
-# `.skywarsinfo`
+## `.skywarsinfo`
 
 Get the position and score of the player within **ranked** skywars
 
 **Parameters**: keyword - UUID of the player
 
-# `.jikan-anime`
+## `.jikan-anime`
+
+Alias - `.jk-anime`
 
 Searches on Jikan/MAL and provides info about the given anime
 
 **Parameters**: keyword - The anime that you wish to search for
 
-# `.jikan-manga`
+## `.jikan-manga`
+
+Alias - `.jk-manga`
 
 Searches on Jikan/MAL and provides info about the given manga
 
 **Parameters**: keyword - The manga that you wish to search for
 
-# `.jikan-top`
+## `.jikan-top`
 
-Returns the top 10 items on Jikan/MAL 
+Alias - `.jk-top`
+
+Returns the top 10 items on Jikan/MAL
 
 **Parameters**: keyword - `anime`, `manga`, `character`, or `people`
 
-# `.jikan-season`
+## `.jikan-season`
+
+Alias - `.jk-season`
 
 Returns 5 animes within those given years and seasons
 
 **Parameters**: keyword - Year and Season. For example, `2018 winter`
 
-# `.jikan-season-later`
+## `.jikan-season-later`
+
+Alias - `.jk-season-later`
 
 Returns 5 animes that are already planned for viewing in the future
 
 **Parameters**: None
 
-# `.nb-pride`
+## `.nb-pride`
 
 Sends a non-binary flag and a trans flag into the channel
 
 **Parameters**: None
 
-# `.topgg-search`
+## `.topgg-search`
 
 Searches for a bot and returns info about the given bot
 
-**Parameters**: keyword - The bot's ID 
+**Parameters**: keyword - The bot's ID
 
-# `.topgg-search-user`
+## `.topgg-search-user`
 
 Returns info on a user from Top.gg
 
-**Parameters**: keyword - The User's ID 
+**Parameters**: keyword - The User's ID
 
+## `.deviantart-item`
+
+Alias - `.da-item`
+
+Returns info about given Deviation.
+
+**Parameters**: Deviantion UUID
+
+## `.deviantart-newest`
+
+Alias - `.da-newest`
+
+Returns 5 newest deviations given the category
+
+**Parameters**: Category to search. (eg nature, etc)
+
+## `.deviantart-popular`
+
+Alias - `.da-popular`
+
+Returns 5 popular deviations given the category
+
+**Parameters**: Category to search
+
+## `.deviantart-user`
+
+Alias - `.da-user`
+
+Returns info about the given user
+
+**Parameter**: User to search
+
+## `.deviantart-tag-search`
+
+Alias - `.da-tag-search`
+
+Searches for a tag and returns info on it
+
+**Paramter**: Tag to search
+
+# `.pinterest-pin`
+
+Alias - `.pt-pin`
+
+Returns info about the pin that the user logged on has
+
+**Parameter**: Pin ID
+
+# `.pinterest-board`
+
+Alias - `.pt-board`
+
+Returns info about the board that the user logged on has
+
+**Parameter**: Board ID
+
+# `.pinterest-user`
+
+Alias - `.pt-user`
+
+Returns info about the user that is logged on
+
+**Parameter**: None
