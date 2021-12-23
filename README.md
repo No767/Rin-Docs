@@ -2,6 +2,7 @@
 
 Documentation for the Rin bot. This repo is published to ReadTheDocs, which can be found [here](https://rin-docs.readthedocs.io/en/latest/)
 
+**WARNING: This docs will not be updated and will be considered deprecated. If you wish to find the new docs, you can find them [here](https://docs.rinbot.live). You will not get support if you use this docs** 
 ## Building
 
 ### Environment Setup
