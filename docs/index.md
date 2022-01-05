@@ -1,5 +1,7 @@
 # Rin Documentation
 
+**WARNING: This docs will not be updated and will be considered deprecated. If you wish to find the new docs, you can find them [here](https://docs.rinbot.live). You will not get support if you use this docs** 
+
 ## Introduction
 
 Welcome! This is the current documentation for Rin, a Discord bot focused on obtaining data from third-party services. For more information regarding supported services, more info is provided [here](https://rin-docs.readthedocs.io/en/latest/supported-apis/) 
